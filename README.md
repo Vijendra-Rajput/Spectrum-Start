@@ -1,4 +1,4 @@
 # Spectrum-Start
 This is my first Git Repository
 <br>
-Author - Vijendra Rajput
+Author - Vijendra Singh Rajput
